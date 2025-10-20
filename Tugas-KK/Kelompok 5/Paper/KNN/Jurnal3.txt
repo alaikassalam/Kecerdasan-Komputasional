@@ -1,0 +1,14 @@
+1. Link Implementasi Algoritma K-Nearest Neighbor Untuk Memprediksi Penyakit Diabetes:
+https://ejournal.unama.ac.id/index.php/jakakom/article/download/110/105/937
+
+2. Link Penerapan Algoritma K-Nearest Neighbor (K-NN) untuk Klasifikasi Penyakit Diabetes Melitus:
+https://ejournal.unisbablitar.ac.id/index.php/antivirus/article/download/2445/1352
+
+3. Link Prediksi Penyakit Diabetes dengan Metode K-Nearest Neighbor (KNN) dan Seleksi Fitur Information Gain:
+https://ejournal.itn.ac.id/index.php/jati/article/download/11364/6532/
+
+4. Link Penerapan Algoritma K-Nearest Neighbor untuk Mendeteksi Diabetes Berbasis Web Application:
+https://www.researchgate.net/profile/Mohammad-Nur-Rilwanu/publication/357478344_Penerapan_Algoritma_K-Nearest_Neighbor_untuk_Mendeteksi_Diabetes_Berbasis_Web_Application/links/61d02227da5d105e550fb9e4/Penerapan-Algoritma-K-Nearest-Neighbor-untuk-Mendeteksi-Diabetes-Berbasis-Web-Application.pdf
+
+5. Link Electronic Nose untuk Skrining Penyakit Diabetes Mellitus Menggunakan K-Nearest Neighbor dan Larik Sensor:
+http://ejournal.unisbablitar.ac.id/index.php/antivirus/article/view/2445
